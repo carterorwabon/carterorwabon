@@ -1,3 +1,3 @@
  AuthUserFile /.htpasswd 
- AuthGroupFile /dev/null AuthName "SCP SGA Website - WIP" AuthType 
+ AuthGroupFile /dev/null AuthName "index.html" AuthType 
  Basic require valid-user
