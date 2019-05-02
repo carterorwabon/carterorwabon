@@ -1,0 +1,3 @@
+ AuthUserFile /.htpasswd 
+ AuthGroupFile /dev/null AuthName "SCP SGA Website - WIP" AuthType 
+ Basic require valid-user
